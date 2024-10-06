@@ -1,4 +1,4 @@
--- 03_AddProductRatings.sql
+-- 03_add_ratings.sql
 -- Migration script for adding Product ratings with a relationship to Products
 
 -- Step 1: Use ECommerceDB
@@ -17,7 +17,7 @@ CREATE TABLE ProductRatings (
 
 
 
--- Optional: Insert example product rating for testing
+-- Step 3: Insert example product rating for testing
 Declare @product_id INT
 SELECT @product_id = MAX(Id)
 FROM Products
