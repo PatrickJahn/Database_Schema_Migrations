@@ -5,13 +5,15 @@ using System.Collections.Generic;
 
 namespace Database_Schema_Migrations;
 
-public class ProductContext : DbContext
+public class DatabaseContext : DbContext
 {
     
     public DbSet<ProductModel> Products { get; set; }
+    public DbSet<CategoryModel> Categories { get; set; }
+
     public string DbPath { get; }
 
-    public ProductContext()
+    public DatabaseContext()
     {
         var folder = Environment.SpecialFolder.LocalApplicationData;
         var path = Environment.GetFolderPath(folder);
