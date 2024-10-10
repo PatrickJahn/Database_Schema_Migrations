@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EFMigrations")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53d08de61d3ec92ba086aa02750747a2a24a6ad2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e40e9e6ecd6e488e2e985b2559a9fbb4332e6e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("EFMigrations")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EFMigrations")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
