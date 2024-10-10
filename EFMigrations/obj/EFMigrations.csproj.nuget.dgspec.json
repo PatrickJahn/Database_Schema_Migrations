@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\mb\\Database_Schema_Migrations\\EFMigrations\\EFMigrations.csproj": {}
+    "C:\\Users\\mb\\Database_Schema_Migrations\\EFMigrations\\EFMigrations.csproj": {}
   },
   "projects": {
-    "c:\\Users\\mb\\Database_Schema_Migrations\\EFMigrations\\EFMigrations.csproj": {
+    "C:\\Users\\mb\\Database_Schema_Migrations\\EFMigrations\\EFMigrations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\mb\\Database_Schema_Migrations\\EFMigrations\\EFMigrations.csproj",
+        "projectUniqueName": "C:\\Users\\mb\\Database_Schema_Migrations\\EFMigrations\\EFMigrations.csproj",
         "projectName": "EFMigrations",
-        "projectPath": "c:\\Users\\mb\\Database_Schema_Migrations\\EFMigrations\\EFMigrations.csproj",
+        "projectPath": "C:\\Users\\mb\\Database_Schema_Migrations\\EFMigrations\\EFMigrations.csproj",
         "packagesPath": "C:\\Users\\mb\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\mb\\Database_Schema_Migrations\\EFMigrations\\obj\\",
+        "outputPath": "C:\\Users\\mb\\Database_Schema_Migrations\\EFMigrations\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
