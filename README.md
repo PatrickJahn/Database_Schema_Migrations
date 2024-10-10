@@ -17,7 +17,6 @@ This project demonstrates the use of Entity Framework Core to implement schema m
 
 ```bash
 git clone https://github.com/PatrickJahn/Database_Schema_Migrations.git
-cd your-repo-folder
 ```
 ### 2. Navigate to the Project
 
