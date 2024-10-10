@@ -11,6 +11,8 @@ public class DatabaseContext : DbContext
     public DbSet<ProductModel> Products { get; set; }
     public DbSet<CategoryModel> Categories { get; set; }
 
+     public DbSet<ProductRating> ProductRatings { get; set; }
+
     public string DbPath { get; }
 
     public DatabaseContext()
