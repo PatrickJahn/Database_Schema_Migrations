@@ -12,4 +12,5 @@ public class ProductModel
     public DateTime CreatedDate { get; set; }
     public bool IsActive { get; set; }
 
+    public List<ProductRating> Ratings { get; set; }  // List of ratings for the product 
 }
