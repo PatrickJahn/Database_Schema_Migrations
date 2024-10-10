@@ -15,7 +15,7 @@ To manually roll back the initial schema or other SQL scripts, run the following
 
 ```sql
 DROP TABLE ProductRatings;
-
+```
 
 ```bash
 
@@ -30,3 +30,4 @@ dotnet ef database update <PreviousMigrationName>
  Revert the Most Recent Migration:
 
  dotnet ef migrations remove
+```
